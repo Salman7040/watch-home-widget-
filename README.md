@@ -2,5 +2,5 @@
 
 A new Flutter project.
 
-- [Download The app Now](https://homewatchapp.netlify.app/)
+[Download The app Now](https://homewatchapp.netlify.app/)
 
