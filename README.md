@@ -2,6 +2,5 @@
 
 A new Flutter project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Download The app Now](https://homewatchapp.netlify.app/)
 
