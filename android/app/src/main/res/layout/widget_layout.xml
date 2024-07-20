@@ -1,0 +1,45 @@
+<FrameLayout
+    android:id="@+id/widget_root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="200dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:paddingLeft="20dp"
+        >
+
+        <TextView
+            android:id="@+id/week"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thursday"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="60dp" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12:23"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="45dp" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:text="july 14"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="30dp" />
+
+
+    </LinearLayout>
+</FrameLayout>
